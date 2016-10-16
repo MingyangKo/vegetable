@@ -3,9 +3,6 @@
   display: block;
   clear: both;
 }
-h1{
-  font-size:60px;
-}
 body{
   background-color:#EDF2C5 ;
   font-family: Arial Black;
@@ -26,6 +23,7 @@ h1{
 /*  width: 270px;*/
   height: 43px;
   float:left;
+  font-size:43;
 }
 
 .banner{
