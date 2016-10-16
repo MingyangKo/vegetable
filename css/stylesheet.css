@@ -3,7 +3,9 @@
   display: block;
   clear: both;
 }
-
+h1{
+  font-size:40px;
+}
 body{
   background-color:#EDF2C5 ;
   font-family: Arial Black;
